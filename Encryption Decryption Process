@@ -1,0 +1,21 @@
+Each and every text charecter is assigned a numerical value to it, 
+and these numerical values can be manipulated through mathematical equations such as 
+addition, substraction, multiplication, division, etc, using Javascript's inbuilt functions.
+
+By using Javascript, i have simply added the 'Key' charecter's numerical value to the 'Input' charecter's numerical value,
+which results in the encrypted charecters. 
+And by substracting the  'Key' Charecter's numerical value from the 'Input' Charecter's numerical value,
+we can get the decrypted message.
+
+A simpler way to understand this process is:
+
+let's say that we want to encrypt a series of numbers = 12345
+we can add a random number to it and call it a 'Key' = 95847:
+12345 + 95847 = 108192
+
+Now that the number is encrypted, the original value is now unreadable,
+in order to decrypt the encrypted number, we will have to substract the 'Key' used to encrypted the number, from the encrypted number:
+108192 - 95847 = 12345
+
+using this simple addition and substraction method, we have encrytped and decrypted a number.
+Using this same method we can encrypt and decrypt the text messages.
