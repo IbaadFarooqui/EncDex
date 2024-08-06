@@ -1,6 +1,7 @@
 # EncDex
 
-This is a simle encryption and decryption website which uses Javascript on the browser, therefore no data will be saved on any server.
+This is a simle encryption and decryption website which uses Javascript on the web browser and no data will be saved on any server.
+Hence making this a safer way to encrypt/decrypt text messages over the web browser.
 
 How to use this website:
 Encrypting the text:
